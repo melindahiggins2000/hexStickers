@@ -1,0 +1,33 @@
+---
+title: "testIcons"
+author: "Melinda Higgins"
+date: "2/19/2022"
+output: html_document
+---
+
+## title: "STA 210: Regression Analysis"
+
+see [https://raw.githubusercontent.com/sta210-s22/website/main/index.qmd](https://raw.githubusercontent.com/sta210-s22/website/main/index.qmd)
+
+Uses Quorto markdown, [https://quarto.org/](https://quarto.org/)
+
+
+This page contains an outline of the topics, content, and assignments for the semester.
+Note that this schedule will be updated as the semester progresses, with all changes documented here.
+
+::: column-screen-inset-right
+
+|           Week            | Date        | Topic                                     |             Prepare              |                   Slides                   |                            AE                            |                    Lab                    |         HW          |           Exam           |             Project             |
+|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  [1](/weeks/week-1.html)  | Wed, Jan 5  | Lab 0 - Meet + greet                      |                                  |   [🖥️](/slides/lab-0.html "Lab slides")    |                                                          | [💻](/labs/lab-0.html "Lab instructions") |                     |                          |                                 |
+|                           | Thu, Jan 6  | Welcome to STA 210!                       | [📖](/weeks/week-1.html#prepare) | [🖥️](/slides/lec-1.html "Lecture slides")  |    [📋](/ae/ae-0-movies.html "Application exercise")     |                                           |                     |                          |                                 |
+|  [2](/weeks/week-2.html)  | Mon, Jan 10 | Lab 1 - Meet the toolkit                  |                                  |   [🖥️](/slides/lab-1.html "Lab slides")    |                                                          | [💻](/labs/lab-1.html "Lab instructions") |                     |                          |                                 |
+|                           | Tue, Jan 11 | Simple linear regression (SLR)            | [📖](/weeks/week-2.html#prepare) | [🖥️](/slides/lec-2.html "Lecture slides")  |                                                          |                                           |                     |                          |                                 |
+|                           | Thu, Jan 13 | SLR: Model fitting in R with tidymodels   |                                  | [🖥️](/slides/lec-3.html "Lecture slides")  |  [📋](/ae/ae-1-dcbikeshare.html "Application exercise")  |                                           |                     |                          |                                 |
+|                           | Fri, Jan 14 | Released: HW 5                            |                                  |                                            |                                                          |                                           | [✍️](/hw/hw-5.html) |                          |                                 |
+|                           |             | Due: Lab 1                                |                                  |                                            |                                                          | [💻](/labs/lab-1.html "Lab instructions") |                     |                          |                                 |
+|  [3](/weeks/week-3.html)  | Mon, Jan 17 | *Martin Luther King, Jr. Day*             |                                  |                                            |                                                          |                                           |                     |                          |                                 |
+|                           | Tue, Jan 18 | SLR: Prediction + model evaluation        | [📖](/weeks/week-3.html#prepare) | [🖥️](/slides/lec-4.html "Lecture slides")  |  [📋](/ae/ae-2-dcbikeshare.html "Application exercise")  |                                           |                     |                          |                                 |
+|                           | Thu, Jan 20 | SLR: Simulation-based inference           |                                  |   [🖥️](/slides/lec-5.html "Lab slides")    |                                                          |                                           |                     |                          |                                 |
+|                           | Fri, Jan 21 | Released: HW 1                            |                                  |                                            |                                                          |                                           | [✍️](/hw/hw-1.html) |                          |                                 |
+|  [4](/weeks/week-4.html)  | Mon, Jan 24 | Lab 2 - SLR                               |                                  |    [🖥️](/slides/lab-2.pdf "Lab slides")    |                                                          | [💻](/labs/lab-2.html "Lab instructions") |                     |                          |                                 |
